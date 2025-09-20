@@ -103,5 +103,5 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** [Yash Jaywant Palav](https://github.com/YashPalav-26)
+**Author:** [Yash Palav](https://github.com/YashPalav-26)
 
